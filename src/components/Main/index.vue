@@ -69,7 +69,7 @@
                 
                     <div class="w-full ">
                         <div class="m-auto mb-2 w-24 h-24 rounded-full bg-white flex items-center ">
-                            <i class="text-7xl text-gray-800 fa-solid fa-file-lines m-auto"></i> 
+                            <i class="text-7xl text-gray-800 fa-solid fa-graduation-cap m-auto"></i> 
                         </div>
                     </div>
                 
@@ -78,7 +78,7 @@
                 
                     <div class="w-full ">
                         <div class="m-auto mb-2 w-24 h-24 rounded-full bg-white flex items-center ">
-                            <i class="text-7xl text-gray-800 fa-solid fa-file-lines m-auto"></i> 
+                            <i class="text-7xl text-gray-800 fa-solid fa-user m-auto"></i> 
                         </div>
                     </div>
                 
@@ -88,18 +88,18 @@
 
                 <div class="w-1/3 h-full text-center">
 
-                    <h2 class="font-bold text-2xl">13</h2>
+                    <h2 class="font-bold text-2xl">15</h2>
                     <h2 class=" md:text-2xl sm:text-base">Papers</h2>
                 </div>
 
                 <div class="w-1/3 h-full text-center">
 
-                    <h2 class="font-bold text-2xl">7</h2>
+                    <h2 class="font-bold text-2xl">12</h2>
                     <h2 class=" md:text-2xl sm:text-base">Students framed in Thesis</h2>
                 </div>
                 <div class="w-1/3 h-full text-center">
 
-                    <h2 class="font-bold text-2xl">20</h2>
+                    <h2 class="font-bold text-2xl">32</h2>
                     <h2 class=" md:text-2xl sm:text-base">Students framed in Master</h2>
                 </div>
 

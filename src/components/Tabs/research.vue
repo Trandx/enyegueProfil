@@ -11,6 +11,7 @@
         <br/> • The mechanical behavior of the lithosphere, in particular the study of the irregularity of the thickness of the crust and its consequences in the isostatic equilibrium;
         <br /> • The detection and dynamics of underground flows, particularly the exploration and exploitation of underground resources;
         <br/> • Impact of the exploitation of underground resources on the surface of the earth.
+        <br/> • machine learning aplicated in Geophysics
       </p>
   </div>
 

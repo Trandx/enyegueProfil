@@ -17,8 +17,8 @@
                 <div class="flex justify-left items-center">
                     <i class="md:text-3xl md:mr-4 sm:mr-2 sm:text-xl fa-solid fa-square-envelope"></i>
             
-                    <a href="mailto:france2019@yahoo.com" class=" sm:text-xl md:text-2xl underline hover:text-indigo-700 hover:font-bold ">
-                        france2019@yahoo.com
+                    <a href="mailto:francem2019@yahoo.com" class=" sm:text-xl md:text-2xl underline hover:text-indigo-700 hover:font-bold ">
+                        francem2019@yahoo.com
                     </a>
                 </div>
 
@@ -57,10 +57,10 @@
             </div>
             <p class=" text-left indent-8 md:text-2xl sm:text-lg">
                 I have a Doctoral Thesis / Ph. D in Physics option Geophysics and Geo-exploration defended at the Faculty of Sciences of the University of Yaoundé I, 
-                with very honorable mention and congratulations from the jury. Since 2007 I have as center of interest, the study of the dynamics of the lithosphere, 
+                with very honorable mention and congratulations from the jury. Since 2006 I have as center of interest, the study of the dynamics of the lithosphere, 
                 variation of the thickness of the continental crust and interest of its irregularities, structuring and formation of the sedimentary basins and applications 
                 (in particular relation with the field mining), circulation of fluids (in particular deep) in basins, Impact of the exploitation of underground 
-                resources on the surface of the earth.    
+                resources on the surface of the earth and machine learning aplicated in Geophysics.    
             </p>
         </div>
 

@@ -2,6 +2,14 @@ export default {
   data() {
     return{
         pubList:[
+            // {
+
+            // },
+            {
+              title: "Modeling groundwater potential zones in the Kribi-Campo region, South Cameroon using geospatial techniques and statistical models",
+              link: "https://www.researchgate.net/publication/364091924_Modeling_groundwater_potential_zones_in_the_Kribi-Campo_region_South_Cameroon_using_geospatial_techniques_and_statistical_models",
+              date: "October 2022",
+            },
             {
               title: "Influence of Conduit Properties on Magma Ascent",
               link: "https://www.researchgate.net/publication/351914760_Influence_of_Conduit_Properties_on_Magma_Ascent",
@@ -70,7 +78,8 @@ export default {
           "neuronal methods in the acquisition of geophysical data", 
           "water resources management",
           "water quality",
-          "water and wastewater treatment"
+          "water and wastewater treatment",
+          "machine learning",
         ],
         teachList: [
           {
@@ -103,6 +112,7 @@ export default {
               "gravimetry",
               "leveling",
               "geomagnetism",
+              "geoelectricity"
              ]
           },
         ]
