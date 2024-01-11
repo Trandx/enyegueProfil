@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.6.7",
-    "@vueform/multiselect": "^2.5.2",
+    "@vueform/multiselect": "^2.6.6",
     "canvas": "^2.9.3",
     "core-js": "^3.6.5",
     "pdfjs-dist": "^2.15.349",
