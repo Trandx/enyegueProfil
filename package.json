@@ -14,7 +14,7 @@
     "core-js": "^3.6.5",
     "pdfjs-dist": "^2.15.349",
     "trandx_pdfjs": "^0.1.0",
-    "vue": "^3.0.0",
+    "vue": "^3.3.13",
     "vue-router": "^4.0.0-0"
   },
   "devDependencies": {
